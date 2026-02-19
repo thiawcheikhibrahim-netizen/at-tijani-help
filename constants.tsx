@@ -2,9 +2,10 @@
 import React from 'react';
 
 export const COLORS = {
-  emerald: '#065f46',
-  gold: '#d4af37',
-  sand: '#fef3c7',
+  emerald: '#064e3b',
+  white: '#ffffff',
+  black: '#000000',
+  slate: '#f8fafc',
 };
 
 export const SYSTEM_INSTRUCTIONS = {
